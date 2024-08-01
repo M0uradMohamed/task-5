@@ -1,0 +1,14 @@
+C:\Users\mordhau\source\repos\stringVowels\bin\Debug\net8.0\stringVowels.exe
+C:\Users\mordhau\source\repos\stringVowels\bin\Debug\net8.0\stringVowels.deps.json
+C:\Users\mordhau\source\repos\stringVowels\bin\Debug\net8.0\stringVowels.runtimeconfig.json
+C:\Users\mordhau\source\repos\stringVowels\bin\Debug\net8.0\stringVowels.dll
+C:\Users\mordhau\source\repos\stringVowels\bin\Debug\net8.0\stringVowels.pdb
+C:\Users\mordhau\source\repos\stringVowels\obj\Debug\net8.0\stringVowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mordhau\source\repos\stringVowels\obj\Debug\net8.0\stringVowels.AssemblyInfoInputs.cache
+C:\Users\mordhau\source\repos\stringVowels\obj\Debug\net8.0\stringVowels.AssemblyInfo.cs
+C:\Users\mordhau\source\repos\stringVowels\obj\Debug\net8.0\stringVowels.csproj.CoreCompileInputs.cache
+C:\Users\mordhau\source\repos\stringVowels\obj\Debug\net8.0\stringVowels.dll
+C:\Users\mordhau\source\repos\stringVowels\obj\Debug\net8.0\refint\stringVowels.dll
+C:\Users\mordhau\source\repos\stringVowels\obj\Debug\net8.0\stringVowels.pdb
+C:\Users\mordhau\source\repos\stringVowels\obj\Debug\net8.0\stringVowels.genruntimeconfig.cache
+C:\Users\mordhau\source\repos\stringVowels\obj\Debug\net8.0\ref\stringVowels.dll

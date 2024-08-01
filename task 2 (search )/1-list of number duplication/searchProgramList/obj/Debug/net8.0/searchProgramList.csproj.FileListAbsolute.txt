@@ -1,0 +1,14 @@
+C:\Users\mordhau\source\repos\searchProgramList\bin\Debug\net8.0\searchProgramList.exe
+C:\Users\mordhau\source\repos\searchProgramList\bin\Debug\net8.0\searchProgramList.deps.json
+C:\Users\mordhau\source\repos\searchProgramList\bin\Debug\net8.0\searchProgramList.runtimeconfig.json
+C:\Users\mordhau\source\repos\searchProgramList\bin\Debug\net8.0\searchProgramList.dll
+C:\Users\mordhau\source\repos\searchProgramList\bin\Debug\net8.0\searchProgramList.pdb
+C:\Users\mordhau\source\repos\searchProgramList\obj\Debug\net8.0\searchProgramList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mordhau\source\repos\searchProgramList\obj\Debug\net8.0\searchProgramList.AssemblyInfoInputs.cache
+C:\Users\mordhau\source\repos\searchProgramList\obj\Debug\net8.0\searchProgramList.AssemblyInfo.cs
+C:\Users\mordhau\source\repos\searchProgramList\obj\Debug\net8.0\searchProgramList.csproj.CoreCompileInputs.cache
+C:\Users\mordhau\source\repos\searchProgramList\obj\Debug\net8.0\searchProgramList.dll
+C:\Users\mordhau\source\repos\searchProgramList\obj\Debug\net8.0\refint\searchProgramList.dll
+C:\Users\mordhau\source\repos\searchProgramList\obj\Debug\net8.0\searchProgramList.pdb
+C:\Users\mordhau\source\repos\searchProgramList\obj\Debug\net8.0\searchProgramList.genruntimeconfig.cache
+C:\Users\mordhau\source\repos\searchProgramList\obj\Debug\net8.0\ref\searchProgramList.dll

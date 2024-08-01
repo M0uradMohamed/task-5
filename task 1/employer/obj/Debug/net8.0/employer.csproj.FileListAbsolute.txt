@@ -1,0 +1,14 @@
+C:\Users\mordhau\source\repos\employer\bin\Debug\net8.0\employer.exe
+C:\Users\mordhau\source\repos\employer\bin\Debug\net8.0\employer.deps.json
+C:\Users\mordhau\source\repos\employer\bin\Debug\net8.0\employer.runtimeconfig.json
+C:\Users\mordhau\source\repos\employer\bin\Debug\net8.0\employer.dll
+C:\Users\mordhau\source\repos\employer\bin\Debug\net8.0\employer.pdb
+C:\Users\mordhau\source\repos\employer\obj\Debug\net8.0\employer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mordhau\source\repos\employer\obj\Debug\net8.0\employer.AssemblyInfoInputs.cache
+C:\Users\mordhau\source\repos\employer\obj\Debug\net8.0\employer.AssemblyInfo.cs
+C:\Users\mordhau\source\repos\employer\obj\Debug\net8.0\employer.csproj.CoreCompileInputs.cache
+C:\Users\mordhau\source\repos\employer\obj\Debug\net8.0\employer.dll
+C:\Users\mordhau\source\repos\employer\obj\Debug\net8.0\refint\employer.dll
+C:\Users\mordhau\source\repos\employer\obj\Debug\net8.0\employer.pdb
+C:\Users\mordhau\source\repos\employer\obj\Debug\net8.0\employer.genruntimeconfig.cache
+C:\Users\mordhau\source\repos\employer\obj\Debug\net8.0\ref\employer.dll
